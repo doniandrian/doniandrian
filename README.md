@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I`m Doni Andrian</h1>
-<h3 align="center">Student at Parahyangan Catholic University🌟.</h3>
+<!-- <h3 align="center">Student at Parahyangan Catholic University🌟.</h3> -->
 
 <br>
 
