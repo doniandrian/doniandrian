@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I`m Doni Andrian</h1>
-<!-- <h3 align="center">Student at Parahyangan Catholic University🌟.</h3> -->
 
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=BlackArch8&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+    alt="doni_andrian" /> 
   </p>
 
 <br>
@@ -76,7 +75,7 @@
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
       </a> </p>
 
 <br>
