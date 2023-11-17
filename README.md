@@ -27,7 +27,7 @@
   <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="" target="https://www.instagram.com/doniandrian184/"><img align="center"
+  <a href="https://www.instagram.com/doni_andrian184/" target=""><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center"
@@ -75,8 +75,8 @@
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-      </a> </p>
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="sass" width="40"
+      height="40"/> </a> </p>
 
 <br>
 
