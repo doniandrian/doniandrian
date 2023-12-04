@@ -8,6 +8,7 @@
 
 <br>
 
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 
@@ -18,6 +19,7 @@
 - ⚡ Fun fact :- Sport🎾 and Computer💻 are the reasons to live.
 
 <br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
