@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently working as Software Engineer
+- 🌱 I’m currently working as a Software Engineer
 
 - 📫 How to reach me **doni.andrian884@gmail.com**
 
